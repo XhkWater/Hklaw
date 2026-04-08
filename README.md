@@ -4,7 +4,7 @@
 
 ## 使用
 
-点击右侧 Releases 或[这个链接](https://github.com/szhyc2024/Hklaw/releases/)，选择最新版，找到自己的操作系统，点击下载就可以用了。
+点击右侧 Releases 或[这个链接](https://github.com/szhyc2024/Hklaw/releases/latest/)，选择最新版，找到自己的操作系统，点击下载就可以用了。
 
 ## 手动运行
 
